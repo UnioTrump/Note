@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "32f59b4bc04b091f",
+        "id": "7706b0f64a9b694f",
         "type": "tabs",
         "children": [
           {
-            "id": "1af9583fa4cdcce2",
+            "id": "064d7bd11d14cfae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,9 +164,21 @@
               "icon": "lucide-list",
               "title": "欢迎 的大纲"
             }
+          },
+          {
+            "id": "cbc948175e50ed27",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "My First Note.md"
+              },
+              "icon": "lucide-info",
+              "title": "My First Note的笔记属性"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -185,7 +197,7 @@
       "bases:新建数据库": false
     }
   },
-  "active": "1af9583fa4cdcce2",
+  "active": "064d7bd11d14cfae",
   "lastOpenFiles": [
     "My First Note.md",
     "未命名.base",
