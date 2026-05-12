@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topology/拓扑学家的正弦曲线.md",
+                "file": "Topology/道路连通与连通的关系.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "拓扑学家的正弦曲线"
+              "title": "道路连通与连通的关系"
             }
           }
         ]
@@ -199,10 +199,12 @@
   },
   "active": "b908e6883652e287",
   "lastOpenFiles": [
+    "Topology/拓扑学家的正弦曲线.md",
     "Topology/道路连通与连通的关系.md",
     "Topology/连续映射保持道路连通性.md",
     "Topology/有限乘积保持道路连通性.md",
-    "Topology/拓扑学家的正弦曲线.md",
+    "Topology/粘结引理.md",
+    "Topology/道路连通性.md",
     "Functional Aaalysis/Riesz 引理.md",
     "Topology",
     "Asstes/Riesz_1.png",
